@@ -19,7 +19,7 @@ navbar:
         - text: "Support de cours"
           href: support_de_cours.html
         - text: "Chapitre 1"
-          href: chapitre-1.html
+          href: chapitre_1.html
   
     - text: "About"
       href: about.html
