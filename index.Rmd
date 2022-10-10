@@ -4,8 +4,8 @@ image: "images/isg.jpg"
 links: 
   - label: '<i class="fas fa-envelope"></i> Email'
     url: 'mailto:Foued.hamouda@isggb.u-gabes.tn target="_blank"' 
-  - label: website
-    url: 'https://fouedhamouda.netlify.app/ target="_blank"'
+  # - label: website
+  #   url: 'https://fouedhamouda.netlify.app/ target="_blank"'
   - label: Forum 
     url: 'https://groups.google.com/g/isg-gabes?pli=1 target="_blank"'
 output:
