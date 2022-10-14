@@ -8,11 +8,19 @@ output: distill::distill_article
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-Voici le Quiz du chapitre 1
+Voici les Quiz du chapitre 1
 
-<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=TWbW27lO60aZ2FxDuhU8YXtyIxL24E5LgGv3yrGcR75UMVdGWUNUSFlROUEwVFEzRFNHMkdEWDAyNy4u" target="_blank">Quiz1</a>
+# Quiz 1
+
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=TWbW27lO60aZ2FxDuhU8YXtyIxL24E5LgGv3yrGcR75UMVdGWUNUSFlROUEwVFEzRFNHMkdEWDAyNy4u" target="_blank">Lien</a>
 
 <iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=TWbW27lO60aZ2FxDuhU8YXtyIxL24E5LgGv3yrGcR75UMVdGWUNUSFlROUEwVFEzRFNHMkdEWDAyNy4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
+
+# Quiz 2 
+
+<a href="https://forms.microsoft.com/Pages/ResponsePage.aspx?id=TWbW27lO60aZ2FxDuhU8YXtyIxL24E5LgGv3yrGcR75URVEwMEc4NTRENENRRUExWFJQVk00RFVaQS4u" target="_blank">Lien</a>
+
+<iframe width="640px" height="480px" src="https://forms.microsoft.com/Pages/ResponsePage.aspx?id=TWbW27lO60aZ2FxDuhU8YXtyIxL24E5LgGv3yrGcR75URVEwMEc4NTRENENRRUExWFJQVk00RFVaQS4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 
