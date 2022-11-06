@@ -23,4 +23,5 @@ Voici les Quiz du chapitre 1
 
 <iframe width="640px" height="480px" src="https://forms.microsoft.com/Pages/ResponsePage.aspx?id=TWbW27lO60aZ2FxDuhU8YXtyIxL24E5LgGv3yrGcR75URVEwMEc4NTRENENRRUExWFJQVk00RFVaQS4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6994300831235764225" height="657" width="504" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
 
