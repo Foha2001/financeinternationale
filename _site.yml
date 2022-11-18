@@ -20,8 +20,8 @@ navbar:
           href: support_de_cours.html
         - text: "Chapitre 1"
           href: chapitre-1.html
-    - text: "Evaluation"
-      href: evaluation.html
+    # - text: "Evaluation"
+    #   href: evaluation.html
     - text: "About"
       href: about.html
       
