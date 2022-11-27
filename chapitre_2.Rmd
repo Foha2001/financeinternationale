@@ -1,0 +1,25 @@
+---
+title: "Chapitre 2"
+description: |
+  Dans cette section vous trouverez l'essentiel du chapitre 2
+# author:
+#   - name: Nora Jones 
+#     url: https://example.com/norajones
+#     affiliation: Spacely Sprockets
+#     affiliation_url: https://example.com/spacelysprokets
+# date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+# Quiz 3
+
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=TWbW27lO60aZ2FxDuhU8YXtyIxL24E5LgGv3yrGcR75UNEdGTzBZV1ozQjVZWlNaNE1VV1daREc1Ti4u" target="_blank">Lien pour le quiz 3</a>
+
+<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=TWbW27lO60aZ2FxDuhU8YXtyIxL24E5LgGv3yrGcR75UNEdGTzBZV1ozQjVZWlNaNE1VV1daREc1Ti4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
+
+
+
