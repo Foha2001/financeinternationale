@@ -43,6 +43,6 @@ Veillez le télécharger  ici
 
 <div class="contributor_org">
 
-`r xfun::embed_file(here::here("files", "td 4 finance internationale.pdf"), text = "Télécharger le fichier pdf ici")`
+`r xfun::embed_file(here::here("files", "TD 4 finance internationale.pdf"), text = "Télécharger le fichier pdf ici")`
 </div>
 

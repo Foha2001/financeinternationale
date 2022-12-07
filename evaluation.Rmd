@@ -7,7 +7,7 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=TWbW27lO60aZ2FxDuhU8YXtyIxL24E5LgGv3yrGcR75UNk5ET0pFUDQ3M1hKMTVFS0RNTkQ4UkoyRy4u" target="_blank">Evaluation préliminaire (Groupe 1ère année) </a>
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=TWbW27lO60aZ2FxDuhU8YXtyIxL24E5LgGv3yrGcR75UNk5ET0pFUDQ3M1hKMTVFS0RNTkQ4UkoyRy4u" target="_blank">Evaluation préliminaire (Groupe 1ère année)</a>
 
 
 
