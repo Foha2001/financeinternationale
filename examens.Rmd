@@ -1,0 +1,100 @@
+---
+title: "Examens"
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+
+
+
+
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "examen finance inter 2022.pdf"), text = "- Examen 2022")`
+</div>
+
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "examen finance inter 2021 session de controle.pdf"), text = "- Examen 2021 contrôle")`
+</div>
+
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "examen finance inter 2021.pdf"), text = "- Examen 2021")`
+</div>
+
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "examen finance inter 2020  session de rattrapage.pdf"), text = "- Examen 2020 contrôle")`
+</div>
+
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "examen finance inter 2020.pdf"), text = "- Examen 2020")`
+</div>
+
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "examen finance inter 2019controle.pdf"), text = "- Examen 2019 contrôle")`
+</div>
+
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "examen finance inter 2019.pdf"), text = "- Examen 2019")`
+</div>
+
+
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "examen finance inter 2018.pdf"), text = "- Examen 2018")`
+</div>
+
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "examen finance inter 2018CONTROLE.pdf"), text = "- Examen 2018 contrôle")`
+</div>
+
+
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "examen finance inter 2017.pdf"), text = "- Examen 2017")`
+</div>
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "correction examen finance inter 2016.pdf"), text = "- Correction 2016")`
+</div>
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "examen finance inter 2016.pdf"), text = "- Examen de 2016")`
+</div>
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "examen finance inter 2016 controle.pdf"), text = "- Examen de 2016 contrôle")`
+</div>
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "examen finance inter 2015.pdf"), text = "- Examen de 2015")`
+</div>
+
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "examen finance inter 2015 controle.pdf"), text = "- Examen de 2015 contrôle 2")`
+</div>
+
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "examen finance inter 2014 semestre2.pdf"), text = "- Examen de 2014 semestre 2")`
+</div>
+
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "Examen 2014 controle.pdf"), text = " - Examen de 2014")`
+</div>
+
+

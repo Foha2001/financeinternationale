@@ -22,6 +22,8 @@ navbar:
           href: chapitre-1.html
         - text: "Chapitre 2"
           href: chapitre_2.html
+    - text: "Examens"
+      href: examens.html  
     - text: "Evaluation"
       href: evaluation.html
     - text: "About"
