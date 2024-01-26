@@ -28,8 +28,8 @@
       "title": "Examens",
       "author": [],
       "date": "`r Sys.Date()`",
-      "contents": "\r\n\r\n- Examen 2022\r\n\r\n\r\n- Examen 2021 contrôle\r\n\r\n\r\n- Examen 2021\r\n\r\n\r\n- Examen 2020 contrôle\r\n\r\n\r\n- Examen 2020\r\n\r\n\r\n- Examen 2019 contrôle\r\n\r\n\r\n- Examen 2019\r\n\r\n\r\n- Examen 2018\r\n\r\n\r\n- Examen 2018 contrôle\r\n\r\n\r\n- Examen 2017\r\n\r\n\r\n- Correction 2016\r\n\r\n\r\n- Examen de 2016\r\n\r\n\r\n- Examen de 2016 contrôle\r\n\r\n\r\n- Examen de 2015\r\n\r\n\r\n- Examen de 2015 contrôle 2\r\n\r\n\r\n- Examen de 2014 semestre 2\r\n\r\n\r\n - Examen de 2014\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-06-04T11:05:11+01:00"
+      "contents": "\r\n\r\n- Examen 2022\r\n\r\n\r\n- Examen 2021 contrôle\r\n\r\n\r\n- Examen 2021\r\n\r\n\r\n- Examen 2020 contrôle\r\n\r\n\r\n- Examen 2020\r\n\r\n\r\n- Examen 2019 contrôle\r\n\r\n\r\n- Examen 2019\r\n\r\n\r\n- Examen 2018\r\n\r\n\r\n- Correction examen 2018 \r\n\r\n\r\n- Examen 2018 contrôle\r\n\r\n\r\n- Examen 2017\r\n\r\n\r\n- Correction 2016\r\n\r\n\r\n- Examen de 2016\r\n\r\n\r\n- Correction examen de 2016\r\n\r\n\r\n- Examen de 2016 contrôle\r\n\r\n\r\n- Examen de 2015\r\n\r\n\r\n- Correction examen de 2015\r\n\r\n\r\n- Examen de 2015 contrôle\r\n\r\n\r\n- Correction xamen de 2015 contrôle\r\n\r\n\r\n- Examen de 2014 semestre 2\r\n\r\n\r\n - Examen de 2014\r\n\r\n\r\n - Correction examen de 2014 S2\r\n\r\n\r\n - Correction examen de 2014\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2024-01-26T09:04:45+01:00"
     },
     {
       "path": "index.html",

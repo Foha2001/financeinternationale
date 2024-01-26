@@ -54,9 +54,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 `r xfun::embed_file(here::here("files", "examen finance inter 2018.pdf"), text = "- Examen 2018")`
 </div>
-
 <div class="contributor_org">
 
+`r xfun::embed_file(here::here("files", "correction examen finance inter 2018.pdf"), text = "- Correction examen 2018 ")`
+</div>
+
+
+<div class="contributor_org">
 `r xfun::embed_file(here::here("files", "examen finance inter 2018CONTROLE.pdf"), text = "- Examen 2018 contrôle")`
 </div>
 
@@ -65,6 +69,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 `r xfun::embed_file(here::here("files", "examen finance inter 2017.pdf"), text = "- Examen 2017")`
 </div>
+
+
+
 <div class="contributor_org">
 
 `r xfun::embed_file(here::here("files", "correction examen finance inter 2016.pdf"), text = "- Correction 2016")`
@@ -75,17 +82,38 @@ knitr::opts_chunk$set(echo = FALSE)
 </div>
 <div class="contributor_org">
 
+`r xfun::embed_file(here::here("files", "correction examen finance inter 2016.pdf"), text = "- Correction examen de 2016")`
+</div>
+
+
+
+
+<div class="contributor_org">
+
 `r xfun::embed_file(here::here("files", "examen finance inter 2016 controle.pdf"), text = "- Examen de 2016 contrôle")`
 </div>
 <div class="contributor_org">
 
 `r xfun::embed_file(here::here("files", "examen finance inter 2015.pdf"), text = "- Examen de 2015")`
 </div>
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "correction examen finance inter 2015.pdf"), text = "- Correction examen de 2015")`
+</div>
+
+
 
 <div class="contributor_org">
 
-`r xfun::embed_file(here::here("files", "examen finance inter 2015 controle.pdf"), text = "- Examen de 2015 contrôle 2")`
+`r xfun::embed_file(here::here("files", "examen finance inter 2015 controle.pdf"), text = "- Examen de 2015 contrôle")`
 </div>
+
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "correction examen finance inter 2015 controle.pdf"), text = "- Correction xamen de 2015 contrôle")`
+</div>
+
+
 
 <div class="contributor_org">
 
@@ -96,5 +124,23 @@ knitr::opts_chunk$set(echo = FALSE)
 
 `r xfun::embed_file(here::here("files", "Examen 2014 controle.pdf"), text = " - Examen de 2014")`
 </div>
+
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "correction examen finance inter 2014 semestre2.pdf"), text = " - Correction examen de 2014 S2")`
+</div>
+
+
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "correction examen finance inter 2014.pdf"), text = " - Correction examen de 2014")`
+</div>
+
+
+
+
+
+
+
 
 
